@@ -82,8 +82,14 @@ You may sign your own changes with your own name. But you may not remove, hide, 
 
 If you have modified the Project, say so honestly. Do not present your version as the original or as the Author's official version without the Author's consent.
 
+7. GRANT OF PERMISSION TO USE
 
-7. HOW TO SHARE THE PROJECT
+Full: you may use the Work as much as you like, provided you do not violate the terms of this License.
+
+License text: you are not required to distribute the full text of this License. It is sufficient to state that the Work is licensed under the WAKE License
+
+
+8. HOW TO SHARE THE PROJECT
 
 When distributing the Project, you:
 
@@ -95,21 +101,21 @@ When distributing the Project, you:
 You may charge for distribution, support, hosting, and other services. But payment does not make you the rights holder.
 
 
-8. IF THE AUTHOR RETURNS
+9. IF THE AUTHOR RETURNS
 
 The Author may return to work even after the Project has been recognized as abandoned, and may release new versions, including versions with closed Source Code.
 
 Code that has already been opened under an open source license remains under that license's terms. The Author may not take back the rights that people lawfully received under such a license.
 
 
-9. WHEN RIGHTS TERMINATE
+10. WHEN RIGHTS TERMINATE
 
 If you materially violate the License, your rights under it terminate automatically. If you cure the violation and the law allows it, your rights may be reinstated.
 
 Those who lawfully received the Project from you do not lose their rights because you lost yours.
 
 
-10. THE AUTHOR'S RIGHTS
+11. THE AUTHOR'S RIGHTS
 
 All copyright and other intellectual property rights in the Project belong to the Author, except for the rights expressly granted by this License.
 
@@ -118,17 +124,17 @@ Using, copying, modifying, and distributing the Project does not transfer owners
 The Author remains the Author, whatever happens to the Project next.
 
 
-11. DISCLAIMER OF LIABILITY
+12. DISCLAIMER OF LIABILITY
 
 The Project is provided "as is," without any warranties, express or implied, including warranties of fitness for a particular purpose and absence of errors. To the maximum extent permitted by applicable law, the Author is not liable for any damage arising from the use, modification, distribution, or other handling of the Project.
 
 
-12. ACCEPTANCE OF THE LICENSE
+13. ACCEPTANCE OF THE LICENSE
 
 By using, copying, modifying, or distributing the Project, you accept the terms of this License. If you do not agree with them, you may not exercise the rights granted under the License.
 
 
-13. DESIGNATION
+14. DESIGNATION
 
 Name: WAKE — A License for Authorship and Open Source Code
 Identifier: WAKE-1.0
