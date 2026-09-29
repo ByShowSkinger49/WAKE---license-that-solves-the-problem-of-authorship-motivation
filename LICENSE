@@ -1,0 +1,136 @@
+WAKE LICENSE 1.0
+A License for Authorship and Open Source Code
+
+Copyright © 2026 Skinger49
+
+
+THE IDEA BEHIND THE LICENSE
+
+The person who wrote this license saw a problem with open source, a motivational one: when the code is open, your project can easily be taken without crediting you as the author. That is why WAKE lets you keep the source code closed.
+
+There is also a piece of pragmatism. If an author no longer uses the code and no longer develops the project, it makes sense to open it: the authorship stays with the author anyway.
+
+For us, authorship is not a formality. It cannot be bought, carried off along with the files, or erased with a single edit. The creator's name stays beside their work, wherever it ends up. We value your effort.
+
+This license rests on two principles:
+
+First — The Author always remains the Author. Their name is preserved wherever their work lives.
+
+Second — Abandoned work must not be lost. If an author leaves a project, the code returns to the people, so that it can be studied and developed further, and the creator's name stays with it.
+
+
+1. WHAT WE ARE TALKING ABOUT (DEFINITIONS)
+
+Author — the person who created the Project.
+
+Project — the program, source code, binary files, documentation, and everything else distributed under this License.
+
+Source Code — the form of the Project that is most convenient for studying and modifying it.
+
+Derivative Work — anything you created based on the Project, or that substantially includes the Project or its Source Code.
+
+Update — any change to the Project: new features, bug and vulnerability fixes, performance improvements, support for new systems, and other substantive changes. Changing only the date, version number, metadata, copyright notice, or the text of the License does not count as an Update.
+
+Active Development — the Project is being developed or maintained by the Author or by someone the Author has entrusted with this.
+
+Abandoned Project — a Project that:
+
+a) the Author has declared abandoned, or
+b) has received no Updates for 2 years in a row.
+
+
+2. WHAT YOU MAY DO
+
+The Author grants you a worldwide, non-exclusive right, provided you comply with the License, to:
+
+- use and run the Project;
+- copy it;
+- study it, if the Source Code is open;
+- modify it and create Derivative Works within the limits of the License;
+- distribute the Project and permitted Derivative Works.
+
+
+3. SOURCE CODE WHILE THE PROJECT IS ALIVE
+
+During Active Development, the Author is not required to show the Source Code and may distribute the Project only in ready-made, compiled form.
+
+The code may also be opened voluntarily, at any time. This is a gift to the community, not a transfer of copyright.
+
+
+4. WHEN THE PROJECT IS ABANDONED
+
+If the Project has become Abandoned, the Author must, within 30 days from that moment, make its Source Code open to everyone.
+
+The code must be published in a way that lets people actually use it: study it, modify it, build it, and develop it further. It must be published under an open source license that, at a minimum, permits use, study, modification, reproduction, distribution, and the creation and distribution of Derivative Works.
+
+The chosen license must preserve the authorship and copyright of the original Author.
+
+
+5. THE AUTHOR'S NAME
+
+The Author's name is part of the Project itself. When distributing the Project or a Derivative Work, preserve, where technically possible:
+
+- the name or pseudonym of the original Author;
+- the name of the original Project;
+- the original copyright notice;
+- a link to the original Project, if the Author provided one.
+
+You may sign your own changes with your own name. But you may not remove, hide, or distort the name of the original Author. Passing off someone else's work as your own is the most serious violation of this License.
+
+
+6. MODIFIED VERSIONS AND NAMES
+
+If you have modified the Project, say so honestly. Do not present your version as the original or as the Author's official version without the Author's consent.
+
+
+7. HOW TO SHARE THE PROJECT
+
+When distributing the Project, you:
+
+1. keep the text of this License or its terms available;
+2. preserve the copyright and authorship notices;
+3. do not misrepresent the origin of the Project;
+4. comply with the remaining terms of the License.
+
+You may charge for distribution, support, hosting, and other services. But payment does not make you the rights holder.
+
+
+8. IF THE AUTHOR RETURNS
+
+The Author may return to work even after the Project has been recognized as abandoned, and may release new versions, including versions with closed Source Code.
+
+Code that has already been opened under an open source license remains under that license's terms. The Author may not take back the rights that people lawfully received under such a license.
+
+
+9. WHEN RIGHTS TERMINATE
+
+If you materially violate the License, your rights under it terminate automatically. If you cure the violation and the law allows it, your rights may be reinstated.
+
+Those who lawfully received the Project from you do not lose their rights because you lost yours.
+
+
+10. THE AUTHOR'S RIGHTS
+
+All copyright and other intellectual property rights in the Project belong to the Author, except for the rights expressly granted by this License.
+
+Using, copying, modifying, and distributing the Project does not transfer ownership of it. The License gives you the right to use the Project, not to own it.
+
+The Author remains the Author, whatever happens to the Project next.
+
+
+11. DISCLAIMER OF LIABILITY
+
+The Project is provided "as is," without any warranties, express or implied, including warranties of fitness for a particular purpose and absence of errors. To the maximum extent permitted by applicable law, the Author is not liable for any damage arising from the use, modification, distribution, or other handling of the Project.
+
+
+12. ACCEPTANCE OF THE LICENSE
+
+By using, copying, modifying, or distributing the Project, you accept the terms of this License. If you do not agree with them, you may not exercise the rights granted under the License.
+
+
+13. DESIGNATION
+
+Name: WAKE — A License for Authorship and Open Source Code
+Identifier: WAKE-1.0
+Rights holder of the License text: Skinger49
+Copyright: © 2026 Skinger49
