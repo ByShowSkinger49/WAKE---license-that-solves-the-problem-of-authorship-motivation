@@ -1,0 +1,1 @@
+# WAKE---license-that-solves-the-problem-of-authorship-motivation
